@@ -8,5 +8,5 @@ pycryptodome==3.9.9
 pycryptodomex==3.9.9
 scikit_learn==0.23.2
 secrets==1.0.2
-torch==1.6.0
+torch==2.7.0
 tensorflow==2.2.0
